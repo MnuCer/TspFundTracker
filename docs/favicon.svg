@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="TSP Fund Tracker">
+  <rect width="64" height="64" rx="16" fill="#1d4ed8"/>
+  <path d="M16 18h32v7H37v22h-10V25H16z" fill="#fff"/>
+  <path d="M13 45c5-7 9-8 14-5 5 3 9 2 13-3 3-4 7-5 11-4" fill="none" stroke="#93c5fd" stroke-width="4" stroke-linecap="round"/>
+</svg>

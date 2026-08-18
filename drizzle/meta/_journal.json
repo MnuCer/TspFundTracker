@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1774296190078,
+      "tag": "0000_colorful_mauler",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1774296243363,
+      "tag": "0001_cool_gateway",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1787006006612,
+      "tag": "0002_noisy_the_hood",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "TSP Fund Tracker",
+  "short_name": "TSP Tracker",
+  "description": "Track official TSP fund closes and transparent intraday market-proxy estimates for the G, C, S, and I Funds.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1d4ed8",
+  "orientation": "any",
+  "lang": "en-US",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
